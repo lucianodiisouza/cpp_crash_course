@@ -32,7 +32,8 @@ int main()
         1000
     */
 
-    cout << (10) << endl;
+    // cout << (÷10) << endl;
     cout << (10 << 1) << endl;
+    cout << (10 << 2) << endl; // 10 * 2 ö 2
 
 }
